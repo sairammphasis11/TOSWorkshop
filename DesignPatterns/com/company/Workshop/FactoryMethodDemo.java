@@ -1,6 +1,8 @@
 package com.company.Workshop;
  //   Factory Method
-
+/*
+Implementing the Factory Method Design pattern
+ */
 interface ImageReader {
     DecodedImage getDecodeImage();
 }

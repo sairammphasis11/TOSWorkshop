@@ -2,6 +2,9 @@ package com.company.Workshop;
 
 import com.sun.xml.internal.fastinfoset.util.StringIntMap;
 
+/*
+trying out permuntations of a string
+ */
 public class PermuteString {
 
     // Function to print all the permutations of str

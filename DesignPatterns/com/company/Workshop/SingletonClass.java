@@ -23,7 +23,7 @@ import java.io.Serializable;
 }*/
 
 
-public class GFG
+public class SingletonClass
 {
 
     public static void main(String[] args)

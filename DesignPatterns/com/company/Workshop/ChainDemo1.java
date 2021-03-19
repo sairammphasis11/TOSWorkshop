@@ -2,6 +2,23 @@ package com.company.Workshop;
 
 import java.util.Random;
 
+/*
+Implementing the Chain Design pattern
+ */
+public class ChainDemo1 {
+    public static void main(String[] args) {
+        Handler1 rootChain = new Handler1();
+        rootChain.add(new Handler1());
+        rootChain.add(new Handler1());
+        rootChain.add(new Handler1());
+        rootChain.wrapAround(rootChain);
+        for (int i = 1; i < 6; i++) {
+            System.out.println("Operation #" + i + ":");
+            rootChain.execute(i);
+            System.out.println();
+        }
+    }
+}
 class Handler1 {
     private final static Random RANDOM = new Random();
     private static int nextID = 1;
@@ -30,21 +47,6 @@ class Handler1 {
             nextInChain.execute(num);
         } else {
             System.out.println(id + "-handled-" + num);
-        }
-    }
-}
-
-public class ChainDemo1 {
-    public static void main(String[] args) {
-        Handler1 rootChain = new Handler1();
-        rootChain.add(new Handler1());
-        rootChain.add(new Handler1());
-        rootChain.add(new Handler1());
-        rootChain.wrapAround(rootChain);
-        for (int i = 1; i < 6; i++) {
-            System.out.println("Operation #" + i + ":");
-            rootChain.execute(i);
-            System.out.println();
         }
     }
 }

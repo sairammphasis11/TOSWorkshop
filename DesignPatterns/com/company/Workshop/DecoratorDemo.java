@@ -1,6 +1,9 @@
 package com.company.Workshop;
 
 
+/*
+Implementing the Decarator Design pattern
+ */
 interface I {
     void doIt();
 }
