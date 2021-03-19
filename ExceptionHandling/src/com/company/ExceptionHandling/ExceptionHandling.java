@@ -3,10 +3,14 @@ package com.company.ExceptionHandling;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-public class Main {
+/*
+Implemnting the exception handling
+
+ */
+public class ExceptionHandling {
 
     public static void main(String[] args) throws ClassNotFoundException {
-        Logger logger = Logger.getLogger(Main.class.getName());
+        Logger logger = Logger.getLogger(ExceptionHandling.class.getName());
 
         ExHndlr eh = new ExHndlr();
         try {
