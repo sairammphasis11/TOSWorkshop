@@ -4,6 +4,9 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.LinkedList;
 
+/*
+ * Implementing the Linked List and Shuffling,sorting the list
+ */
 public class LinkedListSort {
     public static void main(String args[]) {
 

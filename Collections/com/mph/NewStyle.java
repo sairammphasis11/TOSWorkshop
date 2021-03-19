@@ -3,6 +3,9 @@ package com.mph;
 import java.util.ArrayList;
 import java.util.Iterator;
 
+/*
+Implementing the arraylist example
+ */
 public class NewStyle {
 
         public static void main(String args[]) {

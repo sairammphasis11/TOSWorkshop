@@ -6,6 +6,9 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 
+/*
+Implementing the Map example
+ */
 public class MapExample {
     public static void main(String[] args) {
         Map<Integer,String> map = new HashMap<Integer,String>();

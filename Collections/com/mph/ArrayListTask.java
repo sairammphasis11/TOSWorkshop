@@ -4,6 +4,11 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.ListIterator;
 
+/*
+* Iterating through collections using Iterator object
+* trying out different iterators
+ */
+
 public class ArrayListTask {
     public static void main(String args[]) {
         // Create an array list.
@@ -25,7 +30,6 @@ public class ArrayListTask {
             String element = itr.next();
             System.out.print(element + " ");
         }
-        System.out.println();
 
         // Modify objects being iterated.
         ListIterator<String > litr = al.listIterator();
@@ -48,7 +52,6 @@ public class ArrayListTask {
             String element = litr.previous();
             System.out.print(element + " ");
         }
-        System.out.println();
 
     }
 }

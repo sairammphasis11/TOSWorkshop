@@ -3,7 +3,9 @@ package com.mph;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
-
+/*
+* Implementing the HashMap and trying out its methods
+ */
 public class HashMapTask {
     public static void main(String args[]) {
 
@@ -27,7 +29,6 @@ public class HashMapTask {
             System.out.println(me.getValue());
         }
 
-        System.out.println();
 
         // Deposit 1000 into John Doe's account.
         Double balance = hm.get("John Doe");

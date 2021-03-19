@@ -2,6 +2,9 @@ package com.mph;
 
 import java.util.LinkedList;
 
+/*
+ * Implementing the LinkedList and trying out its methods
+ */
 public class LinkedListPopTask {
     public static void main(String args[]) {
         // Create a collection.

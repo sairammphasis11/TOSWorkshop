@@ -3,6 +3,9 @@ package com.mph;
 import java.util.Iterator;
 import java.util.Vector;
 
+/*
+Implementing the Vector  and its methods
+ */
 public class VectorTask {
     public static void main(String args[]) {
 

@@ -2,7 +2,10 @@ package com.mph;
 
 import java.lang.reflect.Array;
 import java.util.*;
-
+/*
+ * Using equals and hashcode of the objects and
+ * implementing th distincting of objects
+ */
 class Point2<T>{
     private T x,y;
 
@@ -67,6 +70,8 @@ class Task1{
     }
 
 }
+
+
 public class CollectionEx {
     public static void main(String[] args) {
         Task1 t = new Task1();

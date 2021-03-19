@@ -3,6 +3,9 @@ package com.mph;
 import java.util.ArrayList;
 import java.util.LinkedList;
 
+/*
+Adding and removing the elements from list
+ */
 public class LinkedListTask {
 
     public static void main(String args[]) {

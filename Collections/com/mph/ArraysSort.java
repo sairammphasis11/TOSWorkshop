@@ -2,6 +2,10 @@ package com.mph;
 
 import java.util.Arrays;
 
+/*
+ * Sorting the arrays
+ */
+
 public class ArraysSort {
     public static void main(String args[]) {
 
@@ -37,8 +41,7 @@ public class ArraysSort {
 
     static void display(int array[]) {
         for(int i: array)
-            System.out.print(i + " ");
+            System.out.println(i + " ");
 
-        System.out.println();
     }
 }

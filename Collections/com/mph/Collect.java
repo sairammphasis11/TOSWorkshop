@@ -2,6 +2,9 @@ package com.mph;
 
 import java.util.Hashtable;
 import java.util.Vector;
+/*
+ * Implementing the vector class
+ */
 
 public class Collect {
     public static void main(String [] args)throws Exception{

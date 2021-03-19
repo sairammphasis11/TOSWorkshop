@@ -26,7 +26,12 @@ class Tasks{
         return result;
     }
 
+
 }
+
+/*
+Iterator through the taks
+ */
 public class ListSetExample{
     public static void main(String[] args) {
         Tasks t = new Tasks();
