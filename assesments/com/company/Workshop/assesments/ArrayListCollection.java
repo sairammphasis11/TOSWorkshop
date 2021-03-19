@@ -5,6 +5,10 @@ import java.util.Iterator;
 import java.util.ListIterator;
 
 //arraylist basics
+/*
+Implementing the arraylist and trying out some of its methods
+and traversing through the list
+ */
 public class ArrayListCollection {
 
     public static void main(String args[]) {

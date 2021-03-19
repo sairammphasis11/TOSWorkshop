@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8c11d42-1fbe-4cff-b75f-6d5ca3bdffc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Reflection/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutionService/com/company/MultiThreading/ExecutorServ.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ExecutionService/com/company/MultiThreading/ExecutorServ.java" afterDir="false" />
+    <list default="true" id="db967475-9580-4d10-a944-01ccb0dbd069" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/company/MultiThreading/ExecutorServ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExecutorService/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExecutorService/.idea/description.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExecutorService/.idea/encodings.xml" beforeDir="false" />
@@ -62,17 +61,6 @@
       <change beforePath="$PROJECT_DIR$/../ExecutorService/src/com/company/cyclic/CyclicBarrier.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExecutorService/src/com/company/cyclic/Generics.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExecutorService/src/com/company/cyclic/PhaserApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reflection/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Reflection/com/mph/ReflectionImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reflection/ReflectionClassModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Reflection/com/mph/ReflectionClassModifiers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OldStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/company/Workshop/assesments/OldStyle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/company/assesments/Processor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SimpleDeadLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/company/assesments/SimpleDeadLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WorkerMethodsSynchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/company/assesments/WorkerMethodsSynchronized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/company/Workshop/assesments/ArrayListCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/company/Workshop/assesments/ArrayListCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/company/Workshop/assesments/Asses4.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/company/Workshop/assesments/VectorImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/company/Workshop/assesments/StackClas.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/company/Workshop/assesments/StackClas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cyclic/CountDownLatch.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../cyclic/CyclicBarrier.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../cyclic/PhaserApp.java" beforeDir="false" />
@@ -85,7 +73,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1pw4L3xR0o4B6roBHwXOobqtQky" />
+  <component name="ProjectId" id="1pxxdVclTkP7nZueaxcoexXMAcp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -94,16 +82,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaConcepts" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f8c11d42-1fbe-4cff-b75f-6d5ca3bdffc1" name="Default Changelist" comment="" />
-      <created>1616080759555</created>
+      <changelist id="db967475-9580-4d10-a944-01ccb0dbd069" name="Default Changelist" comment="" />
+      <created>1616138629837</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1616080759555</updated>
+      <updated>1616138629837</updated>
     </task>
     <servers />
   </component>

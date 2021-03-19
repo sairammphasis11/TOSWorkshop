@@ -9,15 +9,15 @@ class runner implements Runnable{
 
     @Override
     public void run()  {
-        Logger logger  = Logger.getLogger(Main.class.getName());
+        Logger logger  = Logger.getLogger(ExecutorServ.class.getName());
         logger.log(Level.INFO,"MAIN");
         System.out.println(Thread.currentThread());
     }
 }
-public class Main {
+public class ExecutorServ {
 
     public static void main(String[] args) {
-        Logger logger  = Logger.getLogger(Main.class.getName());
+        Logger logger  = Logger.getLogger(ExecutorServ.class.getName());
         logger.log(Level.INFO,"MAIN");
        ScheduledExecutorService se= Executors.newScheduledThreadPool(Runtime.getRuntime().availableProcessors()) ;
        se.schedule(new runner(),5, TimeUnit.SECONDS);

@@ -3,7 +3,10 @@ package com.company.Workshop.assesments;
 import java.util.LinkedHashSet;
 import java.util.LinkedList;
 import java.util.Vector;
-
+/*
+Implementing the Stack and trying out some of its methods
+and traversing through the list
+ */
 public class StackClas {
     public static void main(String args[]) {
         // Create a collection.
