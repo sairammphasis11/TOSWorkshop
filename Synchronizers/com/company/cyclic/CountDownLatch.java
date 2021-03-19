@@ -7,7 +7,7 @@ import java.util.concurrent.Executors;
 /*
 Implementing the countdown latch
  */
-
+//Checking the latch
 public class CountDownLatch {
 
 
@@ -30,6 +30,7 @@ public class CountDownLatch {
         service.shutdown();
     }
 }
+//maintaining latch 
 class Task implements Runnable{
     java.util.concurrent.CountDownLatch latch;
 
