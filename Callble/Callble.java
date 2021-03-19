@@ -3,7 +3,10 @@ package com.company.Callble;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.*;
-
+/*
+*Class implementing the CallableFuture methods 
+explaining the future class
+*/
 class Emp{
 
     public int empid,empnmbr;
