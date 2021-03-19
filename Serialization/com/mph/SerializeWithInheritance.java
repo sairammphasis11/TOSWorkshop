@@ -1,7 +1,9 @@
 package com.mph;
 
 import java.io.*;
-
+/*
+Implementing the serializable interface
+ */
 class Person implements Serializable{
     int id; String name;
     public Person(int id, String name){

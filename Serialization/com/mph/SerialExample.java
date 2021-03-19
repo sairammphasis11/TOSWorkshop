@@ -2,6 +2,9 @@ package com.mph;
 
 import java.io.*;
 
+/*
+Implementing the serializable interface
+ */
 class Emp implements Serializable {
     transient int a;
     static int b;

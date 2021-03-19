@@ -1,82 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8c11d42-1fbe-4cff-b75f-6d5ca3bdffc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Reflection/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutionService/com/company/MultiThreading/ExecutorServ.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ExecutionService/com/company/MultiThreading/ExecutorServ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/ExecutorService.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/Callble/Callble.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/Callble/Emp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/Callble/runr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/Collections/CEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/Collections/CollectionFramework.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/Collections/CollectionTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/Empl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/FunctInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/LambdaCl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/MultiThreading/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/MultiThreading/runner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/PeformClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/assesments/App$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/assesments/App$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/assesments/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/assesments/AppProcessor$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/assesments/AppProcessor$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/assesments/AppProcessor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/assesments/Cl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/assesments/CollectionAss.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/assesments/Processor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/assesments/SimpleDeadLock$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/assesments/SimpleDeadLock$Thread1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/assesments/SimpleDeadLock$Thread2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/assesments/SimpleDeadLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/assesments/ThreadPractise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/assesments/WorkerMethodsSynchronized.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/cyclic/CountDownLatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/cyclic/CyclicBarrier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/cyclic/CyclicTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/cyclic/GeneData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/cyclic/Generics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/cyclic/GetGeneData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/cyclic/PhaserApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/cyclic/PhaserTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/out/production/ExecutorService/com/company/cyclic/Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/src/com/company/Callble/Callble.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/src/com/company/Collections/CollectionFramework.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/src/com/company/LambdaCl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/src/com/company/MultiThreading/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/src/com/company/assesments/Cl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/src/com/company/assesments/CollectionAss.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/src/com/company/assesments/Processor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/src/com/company/assesments/SimpleDeadLock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/src/com/company/assesments/ThreadPractise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/src/com/company/assesments/WorkerMethodsSynchronized.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/src/com/company/cyclic/CountDownLatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/src/com/company/cyclic/CyclicBarrier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/src/com/company/cyclic/Generics.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExecutorService/src/com/company/cyclic/PhaserApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reflection/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Reflection/com/mph/ReflectionImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reflection/ReflectionClassModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Reflection/com/mph/ReflectionClassModifiers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OldStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/company/Workshop/assesments/OldStyle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/company/assesments/Processor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SimpleDeadLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/company/assesments/SimpleDeadLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WorkerMethodsSynchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/company/assesments/WorkerMethodsSynchronized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/company/Workshop/assesments/ArrayListCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/company/Workshop/assesments/ArrayListCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/company/Workshop/assesments/Asses4.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/company/Workshop/assesments/VectorImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/company/Workshop/assesments/StackClas.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/company/Workshop/assesments/StackClas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cyclic/CountDownLatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cyclic/CyclicBarrier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cyclic/PhaserApp.java" beforeDir="false" />
-    </list>
+    <list default="true" id="f8c11d42-1fbe-4cff-b75f-6d5ca3bdffc1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +19,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Serialization" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

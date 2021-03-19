@@ -2,6 +2,9 @@ package com.mph;
 
 import java.io.*;
 
+/*
+Serialization Interface
+ */
 class Data implements Serializable{
     private static final long serialVersionUID =11l;
     int i=10;

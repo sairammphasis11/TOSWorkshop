@@ -1,5 +1,9 @@
 package com.mph;
 import java.io.*;
+
+/*
+Implementing the serializable interface
+ */
 class Car implements Externalizable {
     static int age;
     String name;

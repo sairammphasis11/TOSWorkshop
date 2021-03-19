@@ -5,6 +5,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.NoSuchElementException;
 
+/*
+Implementing the FileStream
+ */
 class ProductRecord implements Serializable {
     private int productCode;
     private String composition;

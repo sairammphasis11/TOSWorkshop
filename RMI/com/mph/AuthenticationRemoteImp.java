@@ -3,6 +3,9 @@ package com.mph;
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
 
+/*
+Implementing the authentication and its implementation
+ */
 public class AuthenticationRemoteImp extends UnicastRemoteObject implements AuthenticationRemote {
 
     protected AuthenticationRemoteImp() throws RemoteException {

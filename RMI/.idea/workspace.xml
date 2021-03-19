@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47aa1946-3895-4545-8e15-b3dc1a9b3a40" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AuthenticationRemote.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mph/AuthenticationRemote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthenticationRemoteImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mph/AuthenticationRemoteImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mph/ClientApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mph/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/mph/ServerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Serialization/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Serialization/com/mph/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Serialization/ExternExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Serialization/com/mph/ExternExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Serialization/ParentChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Serialization/com/mph/ParentChild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Serialization/ProductFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Serialization/com/mph/ProductFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Serialization/SerialExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Serialization/com/mph/SerialExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Serialization/SerialVersionIDDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Serialization/com/mph/SerialVersionIDDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Serialization/SerializationInheritanceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Serialization/com/mph/SerializationInheritanceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Serialization/SerializeWithInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Serialization/com/mph/SerializeWithInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads/Threads.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads/out/production/Threads/com/company/MultiThreading/Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads/out/production/Threads/com/company/MultiThreading/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads/out/production/Threads/com/company/MultiThreading/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads/src/com/company/MultiThreading/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assesments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assesments/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1py54Vh9wxrbxQ9kPCke9bPZNqu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47aa1946-3895-4545-8e15-b3dc1a9b3a40" name="Default Changelist" comment="" />
+      <created>1616142299024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616142299024</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

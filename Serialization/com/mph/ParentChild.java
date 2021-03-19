@@ -2,6 +2,9 @@ package com.mph;
 
 import java.io.Serializable;
 
+/*
+Implementing the Method Overriding
+ */
 class Base implements Serializable{
 
     int parent = 1;
