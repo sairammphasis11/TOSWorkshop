@@ -3,7 +3,9 @@ package Streams;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
+/*
+Implementing the parallel streams and its methods
+ */
 public class ParallelStream {
 
     public static void main(String[] args) {

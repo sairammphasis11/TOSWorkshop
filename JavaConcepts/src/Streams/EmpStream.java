@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/*
+Streams and its mapping methods
+ */
 public class EmpStream {
 
     public static void main(String[] args) {

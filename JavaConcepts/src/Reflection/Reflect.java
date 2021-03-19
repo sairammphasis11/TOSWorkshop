@@ -8,7 +8,7 @@ import static java.lang.System.out;
 
 enum ClassMember { CONSTRUCTOR, FIELD, METHOD, CLASS, ALL }
 
-public class reflect {
+public class Reflect {
     public static void main(String... args) {
         try {
             Class<?> c = Class.forName(args[0]);

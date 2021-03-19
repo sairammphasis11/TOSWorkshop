@@ -1,4 +1,4 @@
-package gc;
+package GarbageCollections;
 
 //Mbean Interface
 public interface GCTestAgentMBean {

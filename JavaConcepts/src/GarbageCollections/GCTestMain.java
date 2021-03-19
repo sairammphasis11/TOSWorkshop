@@ -1,4 +1,4 @@
-package gc;
+package GarbageCollections;
 
 import javax.management.*;
 import java.lang.management.ManagementFactory;
