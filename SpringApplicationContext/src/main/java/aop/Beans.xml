@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns = "http://www.springframework.org/schema/beans"
+       xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop = "http://www.springframework.org/schema/aop"
+       xsi:schemaLocation = "http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+   http://www.springframework.org/schema/aop
+   http://www.springframework.org/schema/aop/spring-aop-3.0.xsd ">
+
+    <aop:config>
+        <aop:aspect id="LoggingAspect" ref="loggingBean">
+            <aop:pointcut id = "messageService"
+                          expression = "execution(* aop.*.readMessage(..))"/>
+            <aop:before pointcut-ref="messageService" method = "beforeAdvice"/>
+            <aop:after pointcut-ref = "messageService" method = "afterAdvice"/>
+            <aop:after-returning pointcut-ref = "messageService"
+                                 returning = "retVal"
+                                 method = "afterReturningAdvice"/>
+            <aop:after-throwing pointcut-ref = "messageService"
+                                throwing = "ex"
+                                method = "afterThrowingAdvice"/>
+
+        </aop:aspect>
+    </aop:config>
+    <bean id = "loggingBean" class = "aop.Logging"/>
+
+    <bean id="EmailBean" class="aop.EmailService" lazy-init="default">
+
+    </bean>
+    <bean id="NotificationBean" class="aop.Notification" lazy-init="true">
+
+    </bean>
+</beans>
